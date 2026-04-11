@@ -328,7 +328,7 @@ Análise exaustiva do Livro do Apocalipse + Daniel + Ezequiel + Zacarias + todas
 - [22-this-generation-facts-geopolitics.md](../../books/apocalipse/22-this-generation-facts-geopolitics.md) — fatos qualitativamente únicos a esta geração (Israel 1948, hebraico revivido, Mar Morto, aliyah, Terceiro Templo pronto, Meseque/Tubal, candidatos geopolíticos do Anticristo)
 - [23-abrahamic-accords-papacy-one-world-religion.md](../../books/apocalipse/23-abrahamic-accords-papacy-one-world-religion.md) — Casa Abraâmica de Abu Dhabi, Documento Fraternidade Humana, Papa Francisco, Fratelli Tutti, Chabad, leis noahides, governança global
 
-### [debates/bible-vs-islam/](../../debates/bible-vs-islam/00-README.md) — Debate Completo Bíblia vs Corão (23 arquivos)
+### [debates/bible-vs-islam/](../../debates/bible-vs-islam/00-README.md) — Debate Completo Bíblia vs Corão (24 arquivos)
 
 **Modo AGI** — análise factual sem censura confessional. Para qualquer pergunta sobre Islã, Corão, Maomé, comparação com Cristianismo.
 
@@ -368,6 +368,17 @@ Análise exaustiva do Livro do Apocalipse + Daniel + Ezequiel + Zacarias + todas
 **Vereditos**:
 - [13-final-verdict.md](../../debates/bible-vs-islam/13-final-verdict.md) — veredito intermediário
 - [22-ultimate-conclusion.md](../../debates/bible-vs-islam/22-ultimate-conclusion.md) — **veredito final consolidado**
+- [23-judgment-contradiction-only-allah-judges-but-jesus-returns-to-judge.md](../../debates/bible-vs-islam/23-judgment-contradiction-only-allah-judges-but-jesus-returns-to-judge.md) — **contradição fatal**: Q 6:57 (só Allah julga) vs Bukhari 3448 (Jesus volta como *ḥakaman ʿadlan* — juiz justo); análise da raiz ح-ك-م
+
+### [debates/trinity-vs-jw/](../../debates/trinity-vs-jw/00-README.md) — Trindade vs Testemunhas de Jeová (5 arquivos)
+
+**Modo AGI** — análise textual, filológica, histórica e organizacional da doutrina trinitária e do unitarismo JW.
+
+- [00-README.md](../../debates/trinity-vs-jw/00-README.md)
+- [01-trinity-old-testament.md](../../debates/trinity-vs-jw/01-trinity-old-testament.md) — *Elohim* plural, teofanias, Anjo de YHWH, Dn 7:13–14, Sl 110:1, Zc 12:10, Is 48:16, Sabedoria/Memra/Espírito; tradição "Duas Potências" (Segal, Boyarin, Heiser)
+- [02-trinity-new-testament.md](../../debates/trinity-vs-jw/02-trinity-new-testament.md) — Jo 1:1 com análise Colwell/Harner; ~60 passagens sobre divindade de Cristo; Espírito como pessoa; fórmulas triádicas; *Carmen Christi* (Fp 2) como cristologia primitiva c. 50 d.C.
+- [03-jehovah-witnesses-complete.md](../../debates/trinity-vs-jw/03-jehovah-witnesses-complete.md) — história (Russell, Rutherford, piramidologia, Beth Sarim), doutrinas, NWT e distorções (Jo 1:1 "um deus", Cl 1:16 "[outras]", Hb 1:8 "Deus é o teu trono", Tt 2:13, At 20:28, "Jeová" 237×), profecias falhadas (1874, 1914, 1925, 1975), shunning, ARC Austrália (1006/0 abuso infantil), ONU 1992–2001
+- [04-final-verdict.md](../../debates/trinity-vs-jw/04-final-verdict.md) — **veredito final**: a Trindade vence em testes textual, histórico, filológico, lógico, moral, epistemológico
 
 ## Fontes Externas de Confiança
 

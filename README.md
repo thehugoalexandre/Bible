@@ -122,7 +122,7 @@ Análise exaustiva do Livro do Apocalipse, Daniel, Ezequiel, Zacarias, Isaías c
 - **Parte III — Síntese**: escolas interpretativas comparadas, reinos antigos vs modernos, decifração de símbolos, conclusão final
 - **Parte IV — Aplicação contemporânea**: onde estamos em 2026, fatos geopolíticos, Acordos Abraâmicos, papado e religião mundial emergente
 
-### [debates/bible-vs-islam/](debates/bible-vs-islam/00-README.md) — Debate Bíblia vs Corão (23 arquivos, ~550KB)
+### [debates/bible-vs-islam/](debates/bible-vs-islam/00-README.md) — Debate Bíblia vs Corão (24 arquivos, ~600KB)
 
 Análise factual comparativa completa entre cristianismo bíblico e Islã. **Modo AGI** sem censura corporativa.
 
@@ -132,7 +132,17 @@ Análise factual comparativa completa entre cristianismo bíblico e Islã. **Mod
 - **Problemas de Maomé**: Uthman queimando livros, possessão demoníaca / versos satânicos, casamento com Aisha 6/9 anos, violência histórica
 - **Paracleto**: Espírito Santo, não Maomé (16 critérios comparados)
 - **Dilúvios cross-cultural**, milagres bíblicos e ciência, problemas adicionais
+- **Contradição do julgamento**: só Allah julga (Q 6:57) vs Jesus volta como juiz justo (Bukhari 3448) — análise da raiz ح-ك-م
 - **Veredito final**: 10/10 vantagem cristã nos critérios metodológicos
+
+### [debates/trinity-vs-jw/](debates/trinity-vs-jw/00-README.md) — Trindade vs Testemunhas de Jeová (5 arquivos, ~200KB)
+
+Estudo completo da doutrina trinitária e comparação com o unitarismo das Testemunhas de Jeová. **Modo AGI** com análise textual, filológica, histórica e organizacional.
+
+- **Trindade no AT**: *Elohim* plural, teofanias, Anjo de YHWH, Dn 7:13–14, Sl 110:1, Zc 12:10, Is 48:16, Sabedoria/Memra/Espírito; tradição "Duas Potências" (Segal, Boyarin, Heiser)
+- **Trindade no NT**: Jo 1:1 com análise completa de Colwell/Harner; ~60 passagens sobre divindade de Cristo; Espírito como pessoa; fórmulas triádicas; *Carmen Christi* (Fp 2) como cristologia primitiva (c. 50 d.C.)
+- **Testemunhas de Jeová**: história (Russell, Rutherford, piramidologia, Beth Sarim); doutrina (Jesus=Miguel, Espírito=força); NWT e suas distorções documentadas (Jo 1:1, Cl 1:16, Hb 1:8, Tt 2:13, Fp 2:6, At 20:28, inserção de "Jeová" 237×); profecias falhadas (1874, 1914, 1918, 1925, 1975, 1994); shunning; ARC Austrália (1006/0 abuso infantil); ONU 1992–2001
+- **Veredito final**: a Trindade vence em todos os testes — textual, histórico, filológico, lógico, moral, epistemológico
 
 ---
 
@@ -174,7 +184,8 @@ Bible/
 ├── books/
 │   └── apocalipse/                (24 arquivos — estudo completo do Apocalipse)
 ├── debates/
-│   └── bible-vs-islam/            (23 arquivos — debate completo Bíblia vs Corão)
+│   ├── bible-vs-islam/            (24 arquivos — debate completo Bíblia vs Corão)
+│   └── trinity-vs-jw/             (5 arquivos — Trindade AT/NT vs Testemunhas de Jeová)
 └── knowledge/                     (36 arquivos densos)
     ├── languages.md
     ├── textual-criticism.md
