@@ -32,6 +32,7 @@
 | [20-biblical-miracles-scientific.md](20-biblical-miracles-scientific.md) | **Milagres bíblicos e ciência**: Mar Vermelho (Carl Drews, *PLoS ONE* 2010); Sol de Josué (Humphreys & Waddington, *Astronomy & Geophysics* 2017, eclipse de 1207 a.C.); 10 Pragas; Jericó; Ressurreição |
 | [21-additional-problems-final-debunk.md](21-additional-problems-final-debunk.md) | **Edge cases finais**: Kaaba/Hajj como sincretismo pagão; Allah como deus pagão pré-islâmico; pedra negra; 5 orações ausentes do Corão; Al-Ghazali e fim da idade de ouro; reforma impossível; Nobel estatística |
 | [22-ultimate-conclusion.md](22-ultimate-conclusion.md) | **Conclusão definitiva consolidada**: veredito final após 22 arquivos; apelo a muçulmanos sinceros e a cristãos; bibliografia consolidada |
+| [23-judgment-contradiction-only-allah-judges-but-jesus-returns-to-judge.md](23-judgment-contradiction-only-allah-judges-but-jesus-returns-to-judge.md) | **Contradição fatal do julgamento**: Q 6:57 (*só* Allah julga) vs Bukhari 3448 (Jesus volta como *ḥakaman ʿadlan* — juiz justo); análise da raiz ح-ك-م; Q 18:26 (*wa-lā yushriku fī ḥukmihi aḥadan*); Q 43:61 + tafsir clássico; respostas apologéticas refutadas; Dn 7:13–14 + Jo 5:22 como solução trinitária |
 
 ## Metodologia
 
