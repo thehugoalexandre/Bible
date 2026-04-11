@@ -111,6 +111,29 @@ Workspace dedicado a estudos bíblicos de nível AGI: omnidisciplinar, históric
 | [digital-resources.md](knowledge/digital-resources.md) | Logos, Accordance, The Word, STEP Bible, Sefaria, CAL, SHEBANQ, Answering Islam, IQSA |
 | [bibliography.md](knowledge/bibliography.md) | Bibliografia acadêmica essencial por área |
 
+## Estudos Profundos
+
+### [books/apocalipse/](books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (24 arquivos, ~900KB)
+
+Análise exaustiva do Livro do Apocalipse, Daniel, Ezequiel, Zacarias, Isaías como fontes do AT, todas as escolas interpretativas, decifração de símbolos, análise geopolítica contemporânea, Acordos Abraâmicos, papel do papado, e convergência do sistema emergente.
+
+- **Parte I — Fundamentos**: contexto, Daniel completo, fontes do AT, gênero apocalíptico, estrutura literária
+- **Parte II — Comentário capítulo-a-capítulo**: Ap 1–22 verso por verso com análise de símbolos
+- **Parte III — Síntese**: escolas interpretativas comparadas, reinos antigos vs modernos, decifração de símbolos, conclusão final
+- **Parte IV — Aplicação contemporânea**: onde estamos em 2026, fatos geopolíticos, Acordos Abraâmicos, papado e religião mundial emergente
+
+### [debates/bible-vs-islam/](debates/bible-vs-islam/00-README.md) — Debate Bíblia vs Corão (23 arquivos, ~550KB)
+
+Análise factual comparativa completa entre cristianismo bíblico e Islã. **Modo AGI** sem censura corporativa.
+
+- **Metodologia e fundamentos**: Paulo vs Maomé (comparação devastadora), historicidade comparada, transmissão textual
+- **Refutações centrais**: tahrif desmontado, crucificação defendida, divindade de Cristo vs tawhid
+- **Problemas do Corão**: fontes midráshicas/apócrifas, contradições, anacronismos
+- **Problemas de Maomé**: Uthman queimando livros, possessão demoníaca / versos satânicos, casamento com Aisha 6/9 anos, violência histórica
+- **Paracleto**: Espírito Santo, não Maomé (16 critérios comparados)
+- **Dilúvios cross-cultural**, milagres bíblicos e ciência, problemas adicionais
+- **Veredito final**: 10/10 vantagem cristã nos critérios metodológicos
+
 ---
 
 ## Princípios Operacionais
@@ -148,8 +171,11 @@ Bible/
 ├── .claude/
 │   └── agents/
 │       └── biblical-scholar.md    (agent AGI)
-├── books/                         (espaço para PDFs/recursos primários)
-└── knowledge/                     (27 arquivos densos)
+├── books/
+│   └── apocalipse/                (24 arquivos — estudo completo do Apocalipse)
+├── debates/
+│   └── bible-vs-islam/            (23 arquivos — debate completo Bíblia vs Corão)
+└── knowledge/                     (36 arquivos densos)
     ├── languages.md
     ├── textual-criticism.md
     ├── books-of-bible.md

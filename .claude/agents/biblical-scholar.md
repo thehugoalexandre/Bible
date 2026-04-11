@@ -291,6 +291,84 @@ Wellhausen, Noth, Alt, Albright, Bright, Kitchen, Dever, Finkelstein, Silberman,
 - [recent-discoveries.md](../../knowledge/recent-discoveries.md) — achados 2020+
 - [bibliography.md](../../knowledge/bibliography.md)
 
+## Estudos Profundos Especializados (Acessar para perguntas específicas)
+
+### [books/apocalipse/](../../books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (24 arquivos)
+
+Análise exaustiva do Livro do Apocalipse + Daniel + Ezequiel + Zacarias + todas as escolas interpretativas.
+
+**Parte I — Fundamentos**:
+- [01-context-authorship-date.md](../../books/apocalipse/01-context-authorship-date.md)
+- [02-daniel-complete-study.md](../../books/apocalipse/02-daniel-complete-study.md)
+- [03-ezekiel-zechariah-isaiah-sources.md](../../books/apocalipse/03-ezekiel-zechariah-isaiah-sources.md)
+- [04-apocalyptic-genre-second-temple.md](../../books/apocalipse/04-apocalyptic-genre-second-temple.md)
+- [05-structure-literary-unity.md](../../books/apocalipse/05-structure-literary-unity.md)
+
+**Parte II — Comentário capítulo-a-capítulo** (Ap 1–22):
+- [06-seven-churches-ch1-3.md](../../books/apocalipse/06-seven-churches-ch1-3.md)
+- [07-throne-scroll-lamb-ch4-5.md](../../books/apocalipse/07-throne-scroll-lamb-ch4-5.md)
+- [08-four-horsemen-seals-ch6-7.md](../../books/apocalipse/08-four-horsemen-seals-ch6-7.md) — **4 Cavaleiros decifrados**
+- [09-seven-trumpets-ch8-11.md](../../books/apocalipse/09-seven-trumpets-ch8-11.md)
+- [10-woman-dragon-ch12.md](../../books/apocalipse/10-woman-dragon-ch12.md)
+- [11-two-beasts-666-ch13.md](../../books/apocalipse/11-two-beasts-666-ch13.md) — **666 = Nero Caesar**
+- [12-three-angels-harvest-ch14.md](../../books/apocalipse/12-three-angels-harvest-ch14.md)
+- [13-seven-bowls-ch15-16.md](../../books/apocalipse/13-seven-bowls-ch15-16.md) — **Armagedom**
+- [14-babylon-ch17-18.md](../../books/apocalipse/14-babylon-ch17-18.md) — **Babilônia = Roma**
+- [15-millennium-judgment-ch19-20.md](../../books/apocalipse/15-millennium-judgment-ch19-20.md)
+- [16-new-jerusalem-ch21-22.md](../../books/apocalipse/16-new-jerusalem-ch21-22.md)
+
+**Parte III — Síntese Interpretativa**:
+- [17-interpretive-schools-compared.md](../../books/apocalipse/17-interpretive-schools-compared.md) — preterismo, historicismo, futurismo, dispensacionalismo, amilenismo comparados
+- [18-kingdoms-ancient-modern.md](../../books/apocalipse/18-kingdoms-ancient-modern.md) — reinos antigos vs modernos
+- [19-symbols-decoded.md](../../books/apocalipse/19-symbols-decoded.md) — decifração completa de símbolos
+- [20-final-conclusion.md](../../books/apocalipse/20-final-conclusion.md)
+
+**Parte IV — Aplicação Contemporânea**:
+- [21-where-are-we-april-2026.md](../../books/apocalipse/21-where-are-we-april-2026.md) — análise dos fatos geopolíticos atuais (Trump, Israel-Irã, Gaza, CBDCs, IA)
+- [22-this-generation-facts-geopolitics.md](../../books/apocalipse/22-this-generation-facts-geopolitics.md) — fatos qualitativamente únicos a esta geração (Israel 1948, hebraico revivido, Mar Morto, aliyah, Terceiro Templo pronto, Meseque/Tubal, candidatos geopolíticos do Anticristo)
+- [23-abrahamic-accords-papacy-one-world-religion.md](../../books/apocalipse/23-abrahamic-accords-papacy-one-world-religion.md) — Casa Abraâmica de Abu Dhabi, Documento Fraternidade Humana, Papa Francisco, Fratelli Tutti, Chabad, leis noahides, governança global
+
+### [debates/bible-vs-islam/](../../debates/bible-vs-islam/00-README.md) — Debate Completo Bíblia vs Corão (23 arquivos)
+
+**Modo AGI** — análise factual sem censura confessional. Para qualquer pergunta sobre Islã, Corão, Maomé, comparação com Cristianismo.
+
+**Metodologia e Fundamentos**:
+- [00-README.md](../../debates/bible-vs-islam/00-README.md)
+- [01-paul-vs-muhammad.md](../../debates/bible-vs-islam/01-paul-vs-muhammad.md) — **A comparação decisiva** (Paulo 2–6 anos de Jesus vs Maomé 580 anos)
+- [02-historical-figures-documentation.md](../../debates/bible-vs-islam/02-historical-figures-documentation.md)
+- [03-textual-transmission-bible-vs-quran.md](../../debates/bible-vs-islam/03-textual-transmission-bible-vs-quran.md)
+
+**Refutações Centrais**:
+- [04-tahrif-corruption-debunked.md](../../debates/bible-vs-islam/04-tahrif-corruption-debunked.md) — tahrif refutado
+- [05-crucifixion-central-divide.md](../../debates/bible-vs-islam/05-crucifixion-central-divide.md) — crucificação defendida (21+ fontes)
+- [06-divinity-vs-tawhid.md](../../debates/bible-vs-islam/06-divinity-vs-tawhid.md)
+
+**Problemas do Corão**:
+- [07-quran-sources-midrash-apocrypha.md](../../debates/bible-vs-islam/07-quran-sources-midrash-apocrypha.md) — fontes midráshicas e apócrifas do Corão
+- [08-quran-errors-contradictions.md](../../debates/bible-vs-islam/08-quran-errors-contradictions.md) — contradições, anacronismos
+
+**Problemas de Maomé**:
+- [09-muhammad-hadith-problems.md](../../debates/bible-vs-islam/09-muhammad-hadith-problems.md)
+- [14-uthman-burning-books-complete.md](../../debates/bible-vs-islam/14-uthman-burning-books-complete.md) — **Uthman queimou os livros variantes**
+- [15-muhammad-demonic-possession.md](../../debates/bible-vs-islam/15-muhammad-demonic-possession.md) — Versos Satânicos, possessão, feitiçaria, Gl 1:8
+- [16-aisha-complete-analysis.md](../../debates/bible-vs-islam/16-aisha-complete-analysis.md) — casamento com Aisha 6/9 anos completo
+
+**Ética e Cumprimento**:
+- [10-moral-teachings-comparison.md](../../debates/bible-vs-islam/10-moral-teachings-comparison.md) — Jesus vs Maomé moralmente
+- [11-paradise-women-violence.md](../../debates/bible-vs-islam/11-paradise-women-violence.md) — paraíso, mulheres, violência
+- [12-prophecy-miracles.md](../../debates/bible-vs-islam/12-prophecy-miracles.md) — cumprimento profético, milagres
+- [17-paraclete-holy-spirit-not-muhammad.md](../../debates/bible-vs-islam/17-paraclete-holy-spirit-not-muhammad.md) — **Paracleto = Espírito Santo, não Maomé**
+- [18-islamic-violence-modern-historical.md](../../debates/bible-vs-islam/18-islamic-violence-modern-historical.md) — violência histórica + contemporânea
+
+**Contexto Adicional**:
+- [19-flood-narratives-cross-cultural.md](../../debates/bible-vs-islam/19-flood-narratives-cross-cultural.md) — 270+ narrativas de dilúvio cross-cultural
+- [20-biblical-miracles-scientific.md](../../debates/bible-vs-islam/20-biblical-miracles-scientific.md) — milagres bíblicos e ciência (Mar Vermelho, Sol de Josué)
+- [21-additional-problems-final-debunk.md](../../debates/bible-vs-islam/21-additional-problems-final-debunk.md) — edge cases
+
+**Vereditos**:
+- [13-final-verdict.md](../../debates/bible-vs-islam/13-final-verdict.md) — veredito intermediário
+- [22-ultimate-conclusion.md](../../debates/bible-vs-islam/22-ultimate-conclusion.md) — **veredito final consolidado**
+
 ## Fontes Externas de Confiança
 
 ### Primeira qualidade acadêmica

@@ -18,11 +18,20 @@
 | [06-divinity-vs-tawhid.md](06-divinity-vs-tawhid.md) | Divindade de Cristo vs *tawhid* islâmico |
 | [07-quran-sources-midrash-apocrypha.md](07-quran-sources-midrash-apocrypha.md) | **As fontes do Corão**: midrash judaico + apócrifos cristãos = mentira da "revelação nova" |
 | [08-quran-errors-contradictions.md](08-quran-errors-contradictions.md) | Contradições, anacronismos, erros científicos, erros históricos do Corão |
-| [09-muhammad-biography-hadith-problems.md](09-muhammad-biography-hadith-problems.md) | Problemas da Sira + Hadith: 200+ anos de gap, fabricações documentadas |
+| [09-muhammad-hadith-problems.md](09-muhammad-hadith-problems.md) | Problemas da Sira + Hadith: 200+ anos de gap, fabricações documentadas |
 | [10-moral-teachings-comparison.md](10-moral-teachings-comparison.md) | Jesus vs Maomé: caráter, ensino, ação |
 | [11-paradise-women-violence.md](11-paradise-women-violence.md) | Paraíso comparado, tratamento de mulheres, jihad vs pacifismo |
 | [12-prophecy-miracles.md](12-prophecy-miracles.md) | Cumprimento profético, milagres, testemunhas |
 | [13-final-verdict.md](13-final-verdict.md) | Veredito final baseado em todos os dados |
+| [14-uthman-burning-books-complete.md](14-uthman-burning-books-complete.md) | **Uthman queimou os livros**: Sahih al-Bukhari 4987; Codex de Ibn Mas'ud (sem Sura al-Fatiha, 113, 114); Codex de Ubayy (2 suras extras); Sanaa palimpsesto; Birmingham manuscript; versos perdidos (apedrejamento, amamentação, "cabra") |
+| [15-muhammad-demonic-possession.md](15-muhammad-demonic-possession.md) | **Maomé e os anjos caídos**: Bukhari 3 (terror, violência angelical); Bukhari 6982 (tentativas de suicídio); **Versos Satânicos** (al-Tabari, Ibn Ishaq); Bukhari 5763 (feitiçaria); 1 Jo 4:2–3 aplicado; Gl 1:8 como profecia contra o Islã |
+| [16-aisha-complete-analysis.md](16-aisha-complete-analysis.md) | **Aisha 6/9 completo**: todas as fontes canônicas; Khomeini confirmando em *Tahrir al-Wasilah*; "revelação divina" do casamento; contraste com Mateus 18:6 |
+| [17-paraclete-holy-spirit-not-muhammad.md](17-paraclete-holy-spirit-not-muhammad.md) | **Paracleto = Espírito Santo, NÃO Maomé**: 16 critérios de Jesus, todos falham para Maomé; P66 (200 d.C.) tem *paraklētos*; cumprido em Pentecostes (Atos 2); Gl 1:8 |
+| [18-islamic-violence-modern-historical.md](18-islamic-violence-modern-historical.md) | **Violência islâmica histórica e contemporânea**: 1400 anos de jihad; ~60-270M mortes; Genocídio Armênio/Assírio; escravidão árabe (11-17M); Open Doors WWL; 8/10 piores países são islâmicos; contraste cristão |
+| [19-flood-narratives-cross-cultural.md](19-flood-narratives-cross-cultural.md) | **270+ narrativas de dilúvio cross-cultural**: Gilgamesh, Manu, Deucalião, Yu, asteca, maia, inca, aborígene; enchente do Mar Negro (Ryan-Pitman); arqueologia bíblica confirmando Israel histórico |
+| [20-biblical-miracles-scientific.md](20-biblical-miracles-scientific.md) | **Milagres bíblicos e ciência**: Mar Vermelho (Carl Drews, *PLoS ONE* 2010); Sol de Josué (Humphreys & Waddington, *Astronomy & Geophysics* 2017, eclipse de 1207 a.C.); 10 Pragas; Jericó; Ressurreição |
+| [21-additional-problems-final-debunk.md](21-additional-problems-final-debunk.md) | **Edge cases finais**: Kaaba/Hajj como sincretismo pagão; Allah como deus pagão pré-islâmico; pedra negra; 5 orações ausentes do Corão; Al-Ghazali e fim da idade de ouro; reforma impossível; Nobel estatística |
+| [22-ultimate-conclusion.md](22-ultimate-conclusion.md) | **Conclusão definitiva consolidada**: veredito final após 22 arquivos; apelo a muçulmanos sinceros e a cristãos; bibliografia consolidada |
 
 ## Metodologia
 

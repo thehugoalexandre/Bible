@@ -38,6 +38,14 @@ Estudo total do Livro do Apocalipse (Ἀποκάλυψις Ἰωάννου, *Apo
 | [19-symbols-decoded.md](19-symbols-decoded.md) | **Decifração completa**: cavalos, bestas, chifres, mares, águas, mulher, cálice, marca, números (7, 12, 144.000, 666, 1260, 42 meses, "tempo-tempos-meio tempo") |
 | [20-final-conclusion.md](20-final-conclusion.md) | **Conclusão final honesta**: o que a evidência sólida sustenta, o que é especulação, "o que está para acontecer" — posição acadêmica rigorosa + respeito às tradições |
 
+### Parte IV — Aplicação Contemporânea
+
+| Arquivo | Conteúdo |
+|---|---|
+| [21-where-are-we-april-2026.md](21-where-are-we-april-2026.md) | **Onde estamos em abril 2026**: análise dos fatos geopolíticos atuais; guerra Israel-Irã; queda de Assad; CBDCs; IA; Terceiro Templo preparado |
+| [22-this-generation-facts-geopolitics.md](22-this-generation-facts-geopolitics.md) | **Esta geração é qualitativamente diferente**: fatos únicos a 1948+; cumprimentos proféticos (Israel, Jerusalém, hebraico, Mar Morto, aliyah); geopolítica do anticristo |
+| [23-abrahamic-accords-papacy-one-world-religion.md](23-abrahamic-accords-papacy-one-world-religion.md) | **Acordos Abraâmicos, Papado, e uma religião mundial**: Casa Abraâmica de Abu Dhabi (2023), Documento da Fraternidade Humana (2019), Fratelli Tutti, Chabad-Lubavitch, leis noahides, governança global, convergência do sistema emergente |
+
 ---
 
 ## Método
