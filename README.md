@@ -113,14 +113,15 @@ Workspace dedicado a estudos bíblicos de nível AGI: omnidisciplinar, históric
 
 ## Estudos Profundos
 
-### [books/apocalipse/](books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (24 arquivos, ~900KB)
+### [books/apocalipse/](books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (27 arquivos, ~1.5MB)
 
-Análise exaustiva do Livro do Apocalipse, Daniel, Ezequiel, Zacarias, Isaías como fontes do AT, todas as escolas interpretativas, decifração de símbolos, análise geopolítica contemporânea, Acordos Abraâmicos, papel do papado, e convergência do sistema emergente.
+Análise exaustiva do Livro do Apocalipse, Daniel, Ezequiel, Zacarias, Isaías como fontes do AT, todas as escolas interpretativas, decifração de símbolos, análise geopolítica contemporânea, Acordos Abraâmicos, papel do papado, e síntese master dialética ("é esta a geração do fim?").
 
 - **Parte I — Fundamentos**: contexto, Daniel completo, fontes do AT, gênero apocalíptico, estrutura literária
 - **Parte II — Comentário capítulo-a-capítulo**: Ap 1–22 verso por verso com análise de símbolos
 - **Parte III — Síntese**: escolas interpretativas comparadas, reinos antigos vs modernos, decifração de símbolos, conclusão final
 - **Parte IV — Aplicação contemporânea**: onde estamos em 2026, fatos geopolíticos, Acordos Abraâmicos, papado e religião mundial emergente
+- **Parte V — Síntese Master**: dialética tese/antítese/síntese puxando de TODOS os estudos do repositório para responder "É esta a geração do fim? Prova-me o contrário"
 
 ### [debates/bible-vs-islam/](debates/bible-vs-islam/00-README.md) — Debate Bíblia vs Corão (24 arquivos, ~600KB)
 
@@ -182,7 +183,7 @@ Bible/
 │   └── agents/
 │       └── biblical-scholar.md    (agent AGI)
 ├── books/
-│   └── apocalipse/                (24 arquivos — estudo completo do Apocalipse)
+│   └── apocalipse/                (27 arquivos — estudo completo do Apocalipse + síntese master + respostas pastorais + Guerra dos Seis Dias/Lc 21:24)
 ├── debates/
 │   ├── bible-vs-islam/            (24 arquivos — debate completo Bíblia vs Corão)
 │   └── trinity-vs-jw/             (5 arquivos — Trindade AT/NT vs Testemunhas de Jeová)
