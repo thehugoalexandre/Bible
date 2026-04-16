@@ -113,7 +113,7 @@ Workspace dedicado a estudos bíblicos de nível AGI: omnidisciplinar, históric
 
 ## Estudos Profundos
 
-### [books/apocalipse/](books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (27 arquivos, ~1.5MB)
+### [books/apocalipse/](books/apocalipse/00-README.md) — Estudo Completo do Apocalipse (28 arquivos, ~1.6MB)
 
 Análise exaustiva do Livro do Apocalipse, Daniel, Ezequiel, Zacarias, Isaías como fontes do AT, todas as escolas interpretativas, decifração de símbolos, análise geopolítica contemporânea, Acordos Abraâmicos, papel do papado, e síntese master dialética ("é esta a geração do fim?").
 
@@ -183,7 +183,7 @@ Bible/
 │   └── agents/
 │       └── biblical-scholar.md    (agent AGI)
 ├── books/
-│   └── apocalipse/                (27 arquivos — estudo completo do Apocalipse + síntese master + respostas pastorais + Guerra dos Seis Dias/Lc 21:24)
+│   └── apocalipse/                (28 arquivos — estudo completo do Apocalipse + síntese master + respostas pastorais + Guerra dos Seis Dias/Lc 21:24 + Gog-Magog vs Armagedom)
 ├── debates/
 │   ├── bible-vs-islam/            (24 arquivos — debate completo Bíblia vs Corão)
 │   └── trinity-vs-jw/             (5 arquivos — Trindade AT/NT vs Testemunhas de Jeová)
