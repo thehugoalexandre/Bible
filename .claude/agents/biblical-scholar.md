@@ -386,6 +386,31 @@ Análise exaustiva do Livro do Apocalipse + Daniel + Ezequiel + Zacarias + todas
 - [03-jehovah-witnesses-complete.md](../../debates/trinity-vs-jw/03-jehovah-witnesses-complete.md) — história (Russell, Rutherford, piramidologia, Beth Sarim), doutrinas, NWT e distorções (Jo 1:1 "um deus", Cl 1:16 "[outras]", Hb 1:8 "Deus é o teu trono", Tt 2:13, At 20:28, "Jeová" 237×), profecias falhadas (1874, 1914, 1925, 1975), shunning, ARC Austrália (1006/0 abuso infantil), ONU 1992–2001
 - [04-final-verdict.md](../../debates/trinity-vs-jw/04-final-verdict.md) — **veredito final**: a Trindade vence em testes textual, histórico, filológico, lógico, moral, epistemológico
 
+### [debates/christianity-vs-world-religions.md](../../debates/christianity-vs-world-religions.md) — Por que o Deus da Bíblia e não outro?
+
+**Apologética comparativa rigorosa** apresentando **15 distinções factualmente demonstráveis** entre cristianismo e todas as outras religiões (Islão, Hinduísmo, Budismo, Judaísmo rabínico, Mormonismo, JW, Nova Era, ateísmo, mitologias antigas):
+
+- **Especificidade histórica** (Tel Dan Stele 1993, Pilatos 1961, Caifás 1990, Dead Sea Scrolls) vs mitologia atemporal
+- **Carácter único de Deus** (Ex 34:6–7 — justiça + misericórdia combinadas; *"Deus é amor"* essencial, 1 Jo 4:8)
+- **Encarnação** (Jo 1:14, Fp 2:6–8 *ekenōsen heauton*) — única na história religiosa
+- **Ressurreição** — tabela comparativa de fundadores (todos mortos excepto Cristo); Minimal Facts Argument (Habermas), N. T. Wright *Resurrection of the Son of God* 800p, W. L. Craig, Licona
+- **Graça vs mérito** (Ef 2:8–9; Tt 3:5) — todas as outras religiões têm homem a subir; só cristianismo tem Deus a descer
+- **Cumprimento profético específico**: tabela de ~20 profecias messiânicas (Sl 22 mãos e pés traspassados **500 anos antes da crucifixão ser inventada**, Is 53 confirmado por DSS 1QIsaᵃ ~125 a.C., Mq 5:2, Zc 9:9, 11:12–13, 12:10) + profecias sobre Israel 1948/1967 (Ez 36, Is 11:11, Lc 21:24)
+- **Integridade textual**: NA28 com 5.800+ manuscritos NT (P52 ~125 d.C., ~25 anos após eventos) vs Corão com variantes queimadas por Uthman (Sahih Bukhari 4987, Sanaa palimpsest); Dead Sea Scrolls confirmam AT
+- **Coerência interna** (66 livros, ~40 autores, 1.600 anos, 3 línguas, 3 continentes) — estatisticamente inexplicável sem inspiração divina (2 Tm 3:16, 2 Pe 1:21)
+- **Diagnóstico correcto da natureza humana** (Jr 17:9, Rm 3:10–12) — empiricamente verificado pelo séc. XX (falhas de Marxismo 100M mortos, humanismo secular I/II GM, islão jihad); Pascal *"homem é inconcebível sem o mistério"*; Chesterton
+- **Ética universal** (Mt 5:44 *"amai vossos inimigos"*, Gl 3:28) — consequências históricas: Wilberforce (abolição), fundação universidades, hospitais, direitos humanos; Jürgen Habermas, Tom Holland *Dominion* (Basic Books 2019) — historiador secular documenta origem cristã da ética ocidental
+- **Trindade** — única religião onde "Deus é amor" é essencial não contingente (Jo 17:24 — Pai amou Filho antes da criação)
+- **Morte pelos inimigos** (Rm 5:8) — tabela das mortes de 13 fundadores (Buda, Maomé, Moisés, Confúcio, Joseph Smith, etc. — **todos mortos e ficaram mortos**); Jesus único morreu voluntariamente, podendo fugir (Mt 26:53 — 12 legiões de anjos)
+- **Resolução do problema do mal**: Elie Wiesel sobre Auschwitz (*"Deus está pendurado na forca"*); Plantinga *God, Freedom, and Evil* demolição do argumento de Epicuro
+- **Ressurreição corporal pessoal** — identidade preservada (não reencarnação, não nirvana, não paraíso impessoal, não aniquilação)
+- **Transformação verificável**: China 100M+ cristãos, Irão 1M+ convertidos apesar de pena de morte, Nabeel Qureshi, Mosab Hassan Yousef, Ayaan Hirsi Ali, Prison Fellowship (50% menos reincidência — estudo Baylor); Bíblia em ~3.700 línguas (Wycliffe 2024)
+- **Quadro comparativo final** com 14 critérios × 6 religiões — cristianismo cumpre **todos** simultaneamente
+- **A distinção fundamental em 1 frase**: *ἄνοδος* (anodos, ascensão humana) em todas as outras religiões vs *κατάβασις* (katabasis, descida divina) só no cristianismo
+- **Por que nem todos reconhecem?** 1 Co 2:14, 2 Co 4:4, Pascal (*"luz suficiente para os que desejam ver, escuridão suficiente para os que não desejam"*), Thomas Nagel admissão honesta de preconceito
+- **Recomendação prática**: como verificar por si mesmo (leitura de Marcos, 1 Co 15, Is 53, Sl 22, comparação com Corão, apologistas Lewis/Wright/Keller/Qureshi/Strobel/Collins/Holland/Craig, oração sincera)
+- **Bibliografia académica extensa** — ~50 títulos organizados por tema (apologética, ressurreição, historicidade, islão, impacto histórico, filosofia)
+
 ## Fontes Externas de Confiança
 
 ### Primeira qualidade acadêmica

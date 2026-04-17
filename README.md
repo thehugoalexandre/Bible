@@ -145,6 +145,20 @@ Estudo completo da doutrina trinitária e comparação com o unitarismo das Test
 - **Testemunhas de Jeová**: história (Russell, Rutherford, piramidologia, Beth Sarim); doutrina (Jesus=Miguel, Espírito=força); NWT e suas distorções documentadas (Jo 1:1, Cl 1:16, Hb 1:8, Tt 2:13, Fp 2:6, At 20:28, inserção de "Jeová" 237×); profecias falhadas (1874, 1914, 1918, 1925, 1975, 1994); shunning; ARC Austrália (1006/0 abuso infantil); ONU 1992–2001
 - **Veredito final**: a Trindade vence em todos os testes — textual, histórico, filológico, lógico, moral, epistemológico
 
+### [debates/christianity-vs-world-religions.md](debates/christianity-vs-world-religions.md) — Por que o Deus da Bíblia e não outro? (~95KB)
+
+**Apologética comparativa rigorosa** com 15 distinções factualmente demonstráveis entre o cristianismo e todas as outras religiões mundiais.
+
+- **15 distinções reais**: especificidade histórica, carácter único de Deus, Encarnação, Ressurreição, graça vs mérito, cumprimento profético (Sl 22, Is 53, Lc 21:24, Israel 1948/1967), integridade textual (NA28 5.800+ manuscritos vs Corão queimado), coerência interna (66 livros, 40 autores, 1.600 anos), diagnóstico correcto da natureza humana, ética universal, Trindade + amor essencial, morte pelos inimigos, resolução do problema do mal, ressurreição corporal pessoal, transformação verificável
+- **Comparação exaustiva** com: Islão, Hinduísmo, Budismo, Judaísmo rabínico, Mormonismo, Testemunhas de Jeová, Nova Era, secularismo/ateísmo, mitologias antigas (grega, nórdica, egípcia), Zoroastrismo, Bahá'í, Cientologia, Confucionismo
+- **Argumentos filosóficos**: Plantinga sobre o problema do mal; Habermas, Tom Holland, Jürgen Habermas reconhecendo origem cristã da ética ocidental; Trindade como única solução para *"Deus é amor"* essencial
+- **Evidências históricas**: Tel Dan Stele, Pilatos (1961), Caifás (1990), Dead Sea Scrolls, Sergio Paulo, Érasto; manuscritos NT (P52, 125 d.C., ~25 anos após eventos)
+- **Ressurreição**: Minimal Facts Argument (Habermas), N.T. Wright *Resurrection of the Son of God* (800 páginas), Michael Licona, William Lane Craig
+- **Transformação empírica verificável**: China (100M+ cristãos), Irão (1M+ convertidos apesar de pena de morte), Qureshi, Yousef, Hirsi Ali, Prison Fellowship
+- **Distinção fundamental em 1 frase**: outras religiões = homem sobe a deus; cristianismo = Deus desce ao homem (*katabasis* vs *anodos*)
+- **Recomendação prática**: como verificar por si mesmo (Marcos + 1 Co 15 + Is 53 + Sl 22 + comparação com Corão + apologistas + oração sincera)
+- **Bibliografia académica extensa**: Lewis, Wright, Keller, Qureshi, Strobel, Collins, Holland, Stark, Plantinga, Swinburne, McGrath, Craig, Licona, Habermas, etc.
+
 ---
 
 ## Princípios Operacionais
